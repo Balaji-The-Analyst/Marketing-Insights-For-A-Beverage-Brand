@@ -11,6 +11,7 @@ The project is about an imaginary beverage company called CodeX.
  the team can use to drive actions. The Marketing Team has asked to share certain insights.
 
  🌟 TOOLS & APPROACH 🌟
+ 
  Power BI, SQL Server, Excel and Canva
 
  * Power BI- Dax, Data Modeling, Measures, Visuals and Interactive Dashboard
