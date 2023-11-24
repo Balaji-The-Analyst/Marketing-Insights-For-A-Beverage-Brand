@@ -1,9 +1,7 @@
 # Marketing-Insights-For-A-Beverage-Brand
-About Project:
+## Problem Statement
 
- The project is about an imaginary beverage company called CodeX.
- 
- CodeX
+The project is about an imaginary beverage company called CodeX.
  
  CodeX is a German beverage company which is recently launched in India. They launched their
  energy drink in 10 cities in India.CodeX surveyed those 10 cities and received results from 10k
