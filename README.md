@@ -7,5 +7,21 @@ The project is about an imaginary beverage company called CodeX.
  energy drink in 10 cities in India.CodeX surveyed those 10 cities and received results from 10k
  respondents. The survey was based on consumer behavior questions like their purchasing
  habits, feedback about the market's available energy drinks, pricing, packaging, etc. Their
- Marketing Team wants Data Analyst to convert these survey results to meaningful insights which
- the team can use to drive actions.The Marketing Team has asked to share certain insights.
+ Marketing Team wants the Data Analyst to convert these survey results into meaningful insights which
+ the team can use to drive actions. The Marketing Team has asked to share certain insights.
+
+ 🌟 TOOLS & APPROACH 🌟
+ Power BI, SQL Server, Excel and Canva
+
+ * Power BI- Dax, Data Modeling, Measures, Visuals and Interactive Dashboard
+ * SQL Server - Data Verification, joins, Subquaries, Window functions, View, Numeric functions etc
+ * Excel - Power Query, Data Cleaning, Data Transformation.
+ * Canva - Documenation
+
+🌟 FINDINGS & Insights 🌟
+* 60% of respondents were male, highlighting a robust male preference for energy drinks.
+* Over 50% of participants were aged 19-30, emphasizing the product's appeal to the youth.
+* Online ads emerged as the most potent channel for reaching a broad audience, particularly among the youth.
+* Caffeine and vitamins were the go-to ingredients, while sleek and portable cans won in the packaging department.
+* Cola Coka established itself as the market leader, with a considerable fan following.
+* Brand reputation played a critical role in consumer decision-making.
