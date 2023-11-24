@@ -11,6 +11,7 @@
  the team can use to drive actions. The Marketing Team has asked to share certain insights.
 
  🌟 TOOLS & APPROACH 🌟
+ 
    Power BI, SQL Server, Excel and Canva
    
  * Power BI- Dax, Data Modeling, Measures, Visuals and Interactive Dashboard
@@ -19,6 +20,7 @@
  * Canva - Documenation
 
 🌟 FINDINGS & Insights 🌟
+
 * 60% of respondents were male, highlighting a robust male preference for energy drinks.
 * Over 50% of participants were aged 19-30, emphasizing the product's appeal to the youth.
 * Online ads emerged as the most potent channel for reaching a broad audience, particularly among the youth.
@@ -28,4 +30,5 @@
 
 
 🌟 Interactive Dashboard 🌟
+
    Novypro: https://www.novypro.com/project/marketing-insights-for-a-beverage-brand-power-bi
