@@ -29,4 +29,5 @@ The project is about an imaginary beverage company called CodeX.
 
 
 🌟 Interactive Dashboard 🌟
+
  Novypro: https://www.novypro.com/project/marketing-insights-for-a-beverage-brand-power-bi
