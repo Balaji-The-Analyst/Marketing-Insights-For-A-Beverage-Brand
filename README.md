@@ -26,3 +26,7 @@ The project is about an imaginary beverage company called CodeX.
 * Caffeine and vitamins were the go-to ingredients, while sleek and portable cans won in the packaging department.
 * Cola Coka established itself as the market leader, with a considerable fan following.
 * Brand reputation played a critical role in consumer decision-making.
+
+
+🌟 Interactive Dashboard 🌟
+ Novypro: https://www.novypro.com/project/marketing-insights-for-a-beverage-brand-power-bi
