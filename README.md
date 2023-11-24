@@ -12,7 +12,7 @@
 
  🌟 TOOLS & APPROACH 🌟
  
-   Power BI, SQL Server, Excel and Canva
+    Power BI, SQL Server, Excel and Canva
  * Power BI- Dax, Data Modeling, Measures, Visuals and Interactive Dashboard
  * SQL Server - Data Verification, joins, Subquaries, Window functions, View, Numeric functions etc
  * Excel - Power Query, Data Cleaning, Data Transformation.
@@ -29,4 +29,4 @@
 
 🌟 Interactive Dashboard 🌟
 
- Novypro: https://www.novypro.com/project/marketing-insights-for-a-beverage-brand-power-bi
+    Novypro: https://www.novypro.com/project/marketing-insights-for-a-beverage-brand-power-bi
