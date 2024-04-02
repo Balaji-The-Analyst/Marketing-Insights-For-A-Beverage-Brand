@@ -10,13 +10,13 @@
  Marketing Team wants the Data Analyst to convert these survey results into meaningful insights which
  the team can use to drive actions. The Marketing Team has asked to share certain insights.
 
- 🌟 TOOLS & APPROACH 🌟
+ ## TOOLS & APPROACH 
    Power BI and Canva
    
  * Power BI- Dax, Data Modeling, Measures, Visuals and Interactive Dashboard
  * Canva - Documenation
 
-🌟 FINDINGS & Insights 🌟
+## FINDINGS & Insights 
 
 * 60% of respondents were male, highlighting a robust male preference for energy drinks.
 * Over 50% of participants were aged 19-30, emphasizing the product's appeal to the youth.
@@ -26,6 +26,6 @@
 * Brand reputation played a critical role in consumer decision-making.
 
 
-🌟 Interactive Dashboard 🌟
+## Interactive Dashboard 
 
    Novypro: https://www.novypro.com/project/marketing-insights-for-a-beverage-brand-power-bi
