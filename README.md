@@ -11,12 +11,9 @@
  the team can use to drive actions. The Marketing Team has asked to share certain insights.
 
  🌟 TOOLS & APPROACH 🌟
- 
-   Power BI, SQL Server, Excel and Canva
+   Power BI and Canva
    
  * Power BI- Dax, Data Modeling, Measures, Visuals and Interactive Dashboard
- * Mysql - Data Verification, joins, Subquaries, Window functions, View, Numeric functions etc
- * Excel - Power Query, Data Cleaning, Data Transformation.
  * Canva - Documenation
 
 🌟 FINDINGS & Insights 🌟
